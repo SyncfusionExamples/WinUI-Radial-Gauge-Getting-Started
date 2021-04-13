@@ -1,8 +1,8 @@
 ﻿<Application
-    x:Class="SfRadialGauge_GettingStarted.App"
+    x:Class="RadialGaugeGettingStartedDesktop.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:SfRadialGauge_GettingStarted">
+    xmlns:local="using:RadialGaugeGettingStartedDesktop">
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>

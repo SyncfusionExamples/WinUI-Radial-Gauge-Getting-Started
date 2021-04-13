@@ -7,20 +7,20 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="106ac638-29af-46f1-91cd-1feb7aa08407"
+    Name="3bee05f8-2e65-43c2-9d00-670f02ae39b0"
     Publisher="CN=VigneshRamesh"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="106ac638-29af-46f1-91cd-1feb7aa08407" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="3bee05f8-2e65-43c2-9d00-670f02ae39b0" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>SfRadialGauge_GettingStarted</DisplayName>
+    <DisplayName>RadialGaugeGettingStartedUWP</DisplayName>
     <PublisherDisplayName>VigneshRamesh</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
   <Dependencies>
-    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17134.0" MaxVersionTested="10.0.17134.0" />
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
   </Dependencies>
 
   <Resources>
@@ -30,12 +30,12 @@
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
-      EntryPoint="SfRadialGauge_GettingStarted.App">
+      EntryPoint="RadialGaugeGettingStartedUWP.App">
       <uap:VisualElements
-        DisplayName="SfRadialGauge_GettingStarted"
+        DisplayName="RadialGaugeGettingStartedUWP"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="SfRadialGauge_GettingStarted"
+        Description="RadialGaugeGettingStartedUWP"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
@@ -43,7 +43,4 @@
     </Application>
   </Applications>
 
-  <Capabilities>
-    <Capability Name="internetClient" />
-  </Capabilities>
 </Package>
