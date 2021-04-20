@@ -1,2 +1,3 @@
-# WinUI_Radial_Gauge_Getting_Started
-This repository contain WinUI Radial Gauge UG getting started sample 
+# WinUI Radial Gauge Getting Started
+
+This repository contains [WinUI Radial Gauge](https://www.syncfusion.com/winui-controls/radial-gauge) UG getting started sample 
