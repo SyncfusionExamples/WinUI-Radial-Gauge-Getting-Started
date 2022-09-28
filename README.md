@@ -13,7 +13,7 @@ Refer to the following link for more details - [System Requirements](https://hel
 
 ## Requirements to run the sample
 
-* [Visual Studio](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/)
+* [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
 ## How to run the sample
 
