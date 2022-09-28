@@ -2,7 +2,7 @@
 
 This repository explains how to get start with your first [Syncfusion WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) sample.
 
-## Syncfuion controls
+## Syncfusion controls
 
 This project used the following Syncfusion control(s):
 * [SfRadialGauge](https://www.syncfusion.com/winui-controls/radial-gauge)
