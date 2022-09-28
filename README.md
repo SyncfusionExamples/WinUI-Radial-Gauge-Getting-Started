@@ -29,11 +29,9 @@ Refer to the following link for more details - [System Requirements](https://hel
             Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
             InitializeComponent();
-
-            MainPage = new NavigationPage(new MainPage());
         }
 
-Refer to this [link](https://help.syncfusion.com/winui/licensing/overview) for more details.
+    Refer to this [link](https://help.syncfusion.com/winui/licensing/overview) for more details.
 
 3. Clean and build the application.
 
