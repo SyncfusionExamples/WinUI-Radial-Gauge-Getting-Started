@@ -1,19 +1,19 @@
 # WinUI Radial Gauge Getting Started
 
-This repository explains how to get start with your first [WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) sample.
+This repository explains how to get start with your first [Syncfusion WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) sample.
 
 ## Syncfuion controls
 
-This project used the following Syncfusion controls:
+This project used the following Syncfusion control(s):
 * [SfRadialGauge](https://www.syncfusion.com/winui-controls/radial-gauge)
-
-## Supported platforms
-
-Refer to the following link for more details - [System Requirements](https://help.syncfusion.com/winui/system-requirements)
 
 ## Requirements to run the sample
 
 * [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+* [Windows App SDK 1.1 extension](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/stable-channel#version-11)
+* .NET 6.0
+
+Refer to the following link for more details - [System Requirements](https://help.syncfusion.com/winui/system-requirements)
 
 ## How to run the sample
 
