@@ -1,6 +1,6 @@
 # WinUI Radial Gauge Getting Started
 
-This repository contains sample for how to get started with the [Syncfusion WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) sample. The Radial Gauge is a multi-purpose data visualization control, that displays numerical values on a circular scale. It has a rich set of features such as axes, ranges, pointers, and annotations that are fully customizable and extendable.
+This repository contains sample for how to get started with the [Syncfusion WinUI Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) sample. The WinUI Radial Gauge is a multi-purpose data visualization control, that displays numerical values on a circular scale. It has a rich set of features such as axes, ranges, pointers, and annotations that are fully customizable and extendable.
 
 ## Syncfusion controls
 
