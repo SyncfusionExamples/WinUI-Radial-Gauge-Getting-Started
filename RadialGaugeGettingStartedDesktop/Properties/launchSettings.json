@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RadialGaugeGettingStartedDesktop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RadialGaugeGettingStartedDesktop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
